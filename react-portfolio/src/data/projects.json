@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Quick Serve",
+    "imageSrc": "projects/project.png",
+    "description": "We have Created this webiste that provides home services like maid service,electrician service ,plumber service, cooking service etc.",
+    "skills": ["Html", "Css", "Js"],
+    "demo": "https://service-provider-shivanshu.netlify.app",
+    "source": "https://github.com/Shivansh876-blip/Service-Provider"
+  }
+
+]
