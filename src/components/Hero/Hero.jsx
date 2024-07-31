@@ -13,7 +13,7 @@ export const Hero = () => {
           Java and for Database Sql.
         </p>
         <a href="./assets/REsume/Shivanshu Gupta Resume.pdf" className={styles.contactBtn}>
-          Download Resume
+          Download
         </a>
       </div>
       <img src={getImageUrl("hero/hero.png")} className={styles.heroImg} />
