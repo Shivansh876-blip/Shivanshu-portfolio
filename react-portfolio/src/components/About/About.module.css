@@ -89,4 +89,12 @@
     padding-left: 0;
     padding-right: 0;
   }
+  .aboutItemText p{
+    font-size: 20px;
+
+  }
+  .aboutItemText h3{
+   margin-bottom:20px ;
+    
+  }
 }
