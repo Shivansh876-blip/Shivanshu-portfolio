@@ -1,3 +1,4 @@
+
 @import "../../vars.css";
 
 .container {
@@ -23,4 +24,9 @@
   justify-content: center;
   gap: 15px;
   width: 100%;
+}
+@media screen and (max-width: 830px) {
+  .projects{
+    padding: 10px;
+  }
 }
