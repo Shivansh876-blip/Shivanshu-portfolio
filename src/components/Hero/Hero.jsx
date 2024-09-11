@@ -12,7 +12,7 @@ export const Hero = () => {
           I'm a Frontend Developer using Html,Css,JavaScript,React.js and programming language
           Java and for Database Sql.
         </p>
-        <a href=".\assets\REsume\Resume.pdf " download className={styles.contactBtn}>
+        <a href=".\assets\Resume\Resume.pdf " download className={styles.contactBtn}>
           Download Resume
         </a>
       </div>
